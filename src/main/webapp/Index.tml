@@ -9,6 +9,8 @@
 
         <p>${message:greeting}</p>
 
+        <t:PersonalArea/>
+
         <p:sidebar>
 
             <p>
