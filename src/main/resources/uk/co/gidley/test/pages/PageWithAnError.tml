@@ -1,0 +1,16 @@
+<html xmlns:t="http://tapestry.apache.org/schema/tapestry_5_1_0.xsd"
+      xmlns:p="tapestry:parameter">
+<body>
+<t:content>
+    <div t:type="layout" title="TestTap With an Error"
+         t:sidebarTitle="An error">
+
+        <p:sidebar>
+            <p>${firstname}</p>
+        </p:sidebar>
+
+
+    </div>
+</t:content>
+</body>
+</html>
